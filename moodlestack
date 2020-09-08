@@ -23,6 +23,7 @@ apt install php7.2-soap
 #ctype - in php7.2-common
 apt install php7.2-zip
 apt install php7.2-gd
+apt install php7.2-opcache
 
 #simplexml - php7.2-xml
 #xml - php7.2-xml
